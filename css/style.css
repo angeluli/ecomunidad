@@ -1660,7 +1660,8 @@ h3 {
 
 /* line 203, ../../Arafath/CL/CL October/213. Business/HTML/scss/_about.scss */
 .project_area {
-  background: #28AE60;
+  background-image: url(../img/background/pattern.png);
+  	background-repeat: repeat;;
   padding: 150px 0;
 }
 
