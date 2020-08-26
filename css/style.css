@@ -432,7 +432,6 @@ h3 {
   border-radius: 5px;
   text-align: center;
   color: #fff !important;
-  text-transform: capitalize;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -473,7 +472,6 @@ h3 {
   border-radius: 5px;
   text-align: center;
   color: #fff !important;
-  text-transform: capitalize;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -1023,7 +1021,7 @@ h3 {
 @media (min-width: 1200px) and (max-width: 1500px) {
   /* line 141, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
   .header-area .main-header-area .main-menu ul li a {
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
@@ -1298,7 +1296,6 @@ h3 {
   color: #FFF;
   font-family: "Poppins", sans-serif;
   font-size: 50px;
-  text-transform: capitalize;
   letter-spacing: 2px;
   font-weight: 400;
   line-height: 62px;
